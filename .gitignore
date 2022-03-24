@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# backend
+__pycache__/
+.idea/
+.env/
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
